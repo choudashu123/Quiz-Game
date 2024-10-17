@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "822446737514",
+    "firebase_url": "https://quizgame-fb9b0-default-rtdb.firebaseio.com",
+    "project_id": "quizgame-fb9b0",
+    "storage_bucket": "quizgame-fb9b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822446737514:android:dc9b7c98b0cdf037e72213",
+        "android_client_info": {
+          "package_name": "com.lordanti.quizgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822446737514-455kl1ul0thpauhdte07de6auja14qfq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lordanti.quizgame",
+            "certificate_hash": "0e7c80f9fd9f425686233d31ba9ea921daa09b88"
+          }
+        },
+        {
+          "client_id": "822446737514-4jjbm690727nkk201d275m6ki3n6fjqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATAT9cex0YnbEhf533oLa6hTyf_uTzkf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822446737514-4jjbm690727nkk201d275m6ki3n6fjqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822446737514:android:49fbf504afe09effe72213",
+        "android_client_info": {
+          "package_name": "com.lordanti.quizgameapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822446737514-4jjbm690727nkk201d275m6ki3n6fjqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATAT9cex0YnbEhf533oLa6hTyf_uTzkf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822446737514-4jjbm690727nkk201d275m6ki3n6fjqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
